@@ -1,0 +1,4 @@
+#Fri Dec 21 14:53:14 GMT 2018
+base.0=C\:\\Users\\Aaron\\Google Drive\\Uni Work\\Comp Sci - Yr 3\\Mobile Device Programming\\Code\\Androidrecipebookapp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
